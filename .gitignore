@@ -1,5 +1,1 @@
 build
-dist
-*.egg-info
-src/cld_3
-src/cld3.cpp
