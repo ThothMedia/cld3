@@ -1,3 +1,6 @@
+** See https://github.com/bsolomon1124/pycld3 for a more update Python binding version. (And easier pip install) **
+
+
 # Compact Language Detector v3 (CLD3) Python Edition
 
 * [Model](#model)
